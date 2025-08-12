@@ -29,3 +29,6 @@ Unique username for each client.
 Real-time message broadcasting.
 
 Graceful disconnection handling.
+
+#output:
+<img width="1017" height="680" alt="Image" src="https://github.com/user-attachments/assets/26cfeb1c-2257-4d1d-97e6-065a1eda0888" />
